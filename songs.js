@@ -126,31 +126,10 @@ const songList = [
   },
 
   {
-    name: "Chandrashekhar",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Chandrashekhar.mp3",
-    image: "./images/Chandrashekhar.jpg",
-  },
-
-  {
     name: "Rudra Mahakaal",
     artist: "Ammy Chahar",
     url: "./songs/Rudra Mahakaal.mp3",
     image: "./images/Rudra Mahakaal.jpg",
-  },
-
-  {
-    name: "Don",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Don.mp3",
-    image: "./images/Don.jpg",
-  },
-
-  {
-    name: "Filter Shot",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Filter Shot.mp3",
-    image: "./images/Filter Shot.jpg",
   },
 
   {
@@ -172,20 +151,6 @@ const songList = [
     artist: "Billa Sonipat Ala, Deepty",
     url: "./songs/Damru Ala.mp3",
     image: "./images/Damru Ala.jpg",
-  },
-
-  {
-    name: "Army",
-    artist: "Sumit Goswami",
-    url: "./songs/Army.mp3",
-    image: "./images/Army.jpg",
-  },
-
-  {
-    name: "Middle Class",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Middle Class.mp3",
-    image: "./images/Middle Class.jpg",
   },
 ];
 
