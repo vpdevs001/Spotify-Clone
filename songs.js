@@ -21,10 +21,24 @@ const songList = [
   },
 
   {
+    name: "Aam Jahe Munde",
+    artist: "Parmish Verma",
+    url: "./songs/Aam Jahe Munde.mp3",
+    image: "./images/Aam Jahe Munde.jpg",
+  },
+
+  {
     name: "Vardaan",
     artist: "Carryminati, Wily Frenzy",
     url: "./songs/Vardaan.mp3",
     image: "./images/Vardaan.jpg",
+  },
+
+  {
+    name: "Chubina",
+    artist: "East Duo",
+    url: "./songs/Chubina.mp3",
+    image: "./images/Chubina.jpg",
   },
 
   {
@@ -43,14 +57,14 @@ const songList = [
 
   {
     name: "Pal Pal",
-    artist: "Afusic, TALWIINDER",
+    artist: "Afusic, Talwiinder",
     url: "./songs/Pal-pal.mp3",
     image: "./images/Pal Pal.webp",
   },
 
   {
     name: "Haseen",
-    artist: "TALWIINDER",
+    artist: "Talwiinder",
     url: "./songs/Haseen.mp3",
     image: "./images/Haseen.jpg",
   },
@@ -112,13 +126,6 @@ const songList = [
   },
 
   {
-    name: "Thandi Thandi",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Thandi Thandi.mp3",
-    image: "./images/Thandi Thandi.jpg",
-  },
-
-  {
     name: "Rudra Mahakaal",
     artist: "Ammy Chahar",
     url: "./songs/Rudra Mahakaal.mp3",
@@ -137,20 +144,6 @@ const songList = [
     artist: "Shubh",
     url: "./songs/No Love.mp3",
     image: "./images/No Love.jpg",
-  },
-
-  {
-    name: "Jug Jug Jeeve",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Jug Jug Jeeve.mp3",
-    image: "./images/Jug Jug Jeeve.jpg",
-  },
-
-  {
-    name: "Mien Dhoondne",
-    artist: "Arjit Singh, Alec Benjami",
-    url: "./songs/Mien-Dhoondne.mp3",
-    image: "./images/Mien-Dhoondne.jpg",
   },
 
   {
