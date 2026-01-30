@@ -21,6 +21,13 @@ const songList = [
   },
 
   {
+    name: "Vardaan",
+    artist: "Carryminati, Wily Frenzy",
+    url: "./songs/Vardaan.mp3",
+    image: "./images/Vardaan.jpg",
+  },
+
+  {
     name: "Mann Mera",
     artist: "Gajendra Verma",
     url: "./songs/Mann Mera.mp3",
@@ -70,6 +77,13 @@ const songList = [
   },
 
   {
+    name: "Past Lives",
+    artist: "SapinToDream",
+    url: "./songs/Past Lives.mp3",
+    image: "./images/Past Lives.jpg",
+  },
+
+  {
     name: "Bholenath 2",
     artist: "Kaka Wrld",
     url: "./songs/Bholenath 2.mp3",
@@ -81,6 +95,34 @@ const songList = [
     artist: "Kaka Wrld",
     url: "./songs/Bholenath.mp3",
     image: "./images/Bholenath.webp",
+  },
+
+  {
+    name: "Mahadev",
+    artist: "Hashtag Pandit",
+    url: "./songs/Mahadev.mp3",
+    image: "./images/Mahadev.jpg",
+  },
+
+  {
+    name: "Damru Ala",
+    artist: "Billa Sonipat Ala, Deepty",
+    url: "./songs/Damru Ala.mp3",
+    image: "./images/Damru Ala.jpg",
+  },
+
+  {
+    name: "Thandi Thandi",
+    artist: "Gulzaar Chhaniwala",
+    url: "./songs/Thandi Thandi.mp3",
+    image: "./images/Thandi Thandi.jpg",
+  },
+
+  {
+    name: "Rudra Mahakaal",
+    artist: "Ammy Chahar",
+    url: "./songs/Rudra Mahakaal.mp3",
+    image: "./images/Rudra Mahakaal.jpg",
   },
 
   {
@@ -112,45 +154,10 @@ const songList = [
   },
 
   {
-    name: "Vardaan",
-    artist: "Carryminati, Wily Frenzy",
-    url: "./songs/Vardaan.mp3",
-    image: "./images/Vardaan.jpg",
-  },
-
-  {
-    name: "Thandi Thandi",
-    artist: "Gulzaar Chhaniwala",
-    url: "./songs/Thandi Thandi.mp3",
-    image: "./images/Thandi Thandi.jpg",
-  },
-
-  {
-    name: "Rudra Mahakaal",
-    artist: "Ammy Chahar",
-    url: "./songs/Rudra Mahakaal.mp3",
-    image: "./images/Rudra Mahakaal.jpg",
-  },
-
-  {
     name: "Babu Degya",
     artist: "Gulzar Chhaniwala",
     url: "./songs/Babu Degya.mp3",
     image: "./images/Babu Degya.jpg",
-  },
-
-  {
-    name: "Mahadev",
-    artist: "Hashtag Pandit",
-    url: "./songs/Mahadev.mp3",
-    image: "./images/Mahadev.jpg",
-  },
-
-  {
-    name: "Damru Ala",
-    artist: "Billa Sonipat Ala, Deepty",
-    url: "./songs/Damru Ala.mp3",
-    image: "./images/Damru Ala.jpg",
   },
 ];
 
