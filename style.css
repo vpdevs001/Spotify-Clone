@@ -468,7 +468,6 @@ body {
 
   .cardContainer {
     margin: 0;
-    justify-content: center;
   }
 
   .aboveBar {
@@ -497,6 +496,10 @@ body {
   }
 
   .volume {
-    display: hidden;
+    display: none;
+  }
+
+  .range {
+    display: none;
   }
 }
