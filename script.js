@@ -3,6 +3,7 @@ import songList from "./songs.js";
 document.addEventListener("DOMContentLoaded", () => {
   //Variables
   let currentSong = new Audio();
+  playMusic(randomSong())
 
   const play = document.getElementById("play");
   const previous = document.getElementById("previous");
@@ -41,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .getElementsByTagName("ul")[0];
     let cardContainer = document.querySelector(".cardContainer");
 
-    // Create ALL list items first
+    // Create ALL list items
     songList.forEach((song, index) => {
       let li = document.createElement("li");
       li.innerHTML = `
@@ -162,9 +163,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //Autoplay
   currentSong.addEventListener("ended", () => {
-    let index = getIndex();
-    if (index < songList.length - 1) playMusic(index + 1);
+    playMusic(randomSong());
   });
+
+  function randomSong() {
+    return Math.floor(Math.random() * songList.length);
+  }
 
   main();
 });
