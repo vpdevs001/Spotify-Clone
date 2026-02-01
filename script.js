@@ -3,6 +3,8 @@ import songList from "./songs.js";
 document.addEventListener("DOMContentLoaded", () => {
   //Variables
   let currentSong = new Audio();
+  randomIndex = Math.floor(Math.random() * songList.length);
+  playMusic(randomIndex);
 
   const play = document.getElementById("play");
   const previous = document.getElementById("previous");
