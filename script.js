@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .getElementsByTagName("ul")[0];
     let cardContainer = document.querySelector(".cardContainer");
 
-    // Create ALL list items first
+    // Create ALL list items
     songList.forEach((song, index) => {
       let li = document.createElement("li");
       li.innerHTML = `
