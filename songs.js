@@ -1,5 +1,26 @@
 const songList = [
   {
+    name: "Bholenath 2",
+    artist: "Kaka Wrld",
+    url: "./songs/Bholenath 2.mp3",
+    image: "./images/Bholenath2.jpg",
+  },
+
+  {
+    name: "Mahadev",
+    artist: "Hashtag Pandit",
+    url: "./songs/Mahadev.mp3",
+    image: "./images/Mahadev.jpg",
+  },
+
+  {
+    name: "Rudra Mahakaal",
+    artist: "Ammy Chahar",
+    url: "./songs/Rudra Mahakaal.mp3",
+    image: "./images/Rudra Mahakaal.jpg",
+  },
+
+  {
     name: "Aarmabh",
     artist: "Piyush Mishra",
     url: "./songs/Aarambh.mp3",
@@ -21,6 +42,20 @@ const songList = [
   },
 
   {
+    name: "Bholenath",
+    artist: "Kaka Wrld",
+    url: "./songs/Bholenath.mp3",
+    image: "./images/Bholenath.webp",
+  },
+
+  {
+    name: "Damru Ala",
+    artist: "Billa Sonipat Ala, Deepty",
+    url: "./songs/Damru Ala.mp3",
+    image: "./images/Damru Ala.jpg",
+  },
+
+  {
     name: "Aam Jahe Munde",
     artist: "Parmish Verma",
     url: "./songs/Aam Jahe Munde.mp3",
@@ -32,6 +67,13 @@ const songList = [
     artist: "Carryminati, Wily Frenzy",
     url: "./songs/Vardaan.mp3",
     image: "./images/Vardaan.jpg",
+  },
+
+  {
+    name: "Royalty",
+    artist: "Neoni",
+    url: "./songs/Royalty.mp3",
+    image: "./images/Royalty.webp",
   },
 
   {
@@ -56,10 +98,10 @@ const songList = [
   },
 
   {
-    name: "Pal Pal",
-    artist: "Afusic, Talwiinder",
-    url: "./songs/Pal-pal.mp3",
-    image: "./images/Pal Pal.webp",
+    name: "Dil Lagana Mana Tha",
+    artist: "Kishore & Krish Mondal",
+    url: "./songs/Dil Lagana Mana Tha.mp3",
+    image: "./images/Dil Lagana Mana Tha.jpg",
   },
 
   {
@@ -70,10 +112,10 @@ const songList = [
   },
 
   {
-    name: "Royalty",
-    artist: "Neoni",
-    url: "./songs/Royalty.mp3",
-    image: "./images/Royalty.webp",
+    name: "Pal Pal",
+    artist: "Afusic, Talwiinder",
+    url: "./songs/Pal-pal.mp3",
+    image: "./images/Pal Pal.webp",
   },
 
   {
@@ -95,41 +137,6 @@ const songList = [
     artist: "SapinToDream",
     url: "./songs/Past Lives.mp3",
     image: "./images/Past Lives.jpg",
-  },
-
-  {
-    name: "Bholenath 2",
-    artist: "Kaka Wrld",
-    url: "./songs/Bholenath 2.mp3",
-    image: "./images/Bholenath2.jpg",
-  },
-
-  {
-    name: "Bholenath",
-    artist: "Kaka Wrld",
-    url: "./songs/Bholenath.mp3",
-    image: "./images/Bholenath.webp",
-  },
-
-  {
-    name: "Mahadev",
-    artist: "Hashtag Pandit",
-    url: "./songs/Mahadev.mp3",
-    image: "./images/Mahadev.jpg",
-  },
-
-  {
-    name: "Damru Ala",
-    artist: "Billa Sonipat Ala, Deepty",
-    url: "./songs/Damru Ala.mp3",
-    image: "./images/Damru Ala.jpg",
-  },
-
-  {
-    name: "Rudra Mahakaal",
-    artist: "Ammy Chahar",
-    url: "./songs/Rudra Mahakaal.mp3",
-    image: "./images/Rudra Mahakaal.jpg",
   },
 
   {
