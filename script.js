@@ -167,6 +167,7 @@ document.addEventListener("DOMContentLoaded", () => {
   currentSong.addEventListener("ended", () => {
     let index = getIndex();
     if (index < songList.length - 1) playMusic(index + 1);
+    else playMusic(0)
   });
 
   main();
